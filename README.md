@@ -6,8 +6,11 @@ Prequisites:
 Open AI Account/Key
 Discord Bot account/Key
 Twitch bot account/key
+
 TwitchIO
+
 Discord.py
+
 OpenAI
 
 
