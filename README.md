@@ -1,6 +1,6 @@
 # openAI.Twitch.Discord.bot
 this is a chat bot for Twitch AND Discord that uses Open.AI's GPT3 model.  when it runs, the bot will respond in either Twitch or Discord, depending on where the 
-question came from.  I built this for my own Twitch channel and Discord server, so you may need to edit it for your needs.  I didn't build this to be a universal bot. 
+question came from.  I built this for my own Twitch channel (https://twitch.tv/deseipel) and Discord server, so you may need to edit it for your needs.  I didn't build this to be a universal bot. 
 
 
 Prequisites:
